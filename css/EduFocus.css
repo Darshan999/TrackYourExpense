@@ -1,0 +1,80 @@
+.backcolor
+{
+	background-color:white;
+	font-style: initial;
+  color: black;
+      font-family: inherit;
+}
+
+.editprofile_btn
+{
+	width: 149px;
+}
+
+.editprofile_img
+{
+	margin-top: -36px;
+}
+.browse_img
+{
+	width: 73%;
+	left: 27%;
+	height: 0%;
+}
+
+.font
+{
+
+	font-style: initial;
+	color: black;
+	    font-family: inherit;
+}
+
+.imgdisplay
+{
+	width:100px;
+	 height:100px;
+}
+
+.entry-widget {
+    background: #fff;
+    position: relative;
+    margin-bottom: 30px;
+    box-shadow: 2px 2px 8px rgba(45, 45, 45, 0.36);
+}
+
+.widget-profile .image {
+    overflow: hidden;
+    position: relative;
+    height: 168px;
+}
+
+.widget-profile .portfolio {
+    position: absolute;
+    top: 16%;
+    border-radius: 50%;
+    width: 120px;
+    border: 3px solid #ffffff;
+    height: 120px;
+    overflow: hidden;
+    left: 32%;
+}
+
+.col-md-offset-1 {
+    margin-left: 8.33333333%;
+}
+
+
+.col-sm-offset-3 {
+    margin-left: 25%;
+}
+
+
+.text-center {
+    text-align: center;
+}
+
+.widget-profile .info {
+    text-align: center;
+    padding: 30px 30px 18px;
+}
